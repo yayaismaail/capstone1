@@ -642,7 +642,9 @@ body {
   .speakers-list3 {
     display: flex;
     flex-direction: row;
-    padding: 0 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 0 25px;
     gap: unset;
   }
 
@@ -651,6 +653,7 @@ body {
   .speakers3 {
     display: flex;
     margin: 3% 10%;
+    width: 70%;
   }
 
   .img-card {
@@ -671,16 +674,16 @@ body {
   }
 
   .speaker-name {
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: 600;
   }
 
   .speaker-status {
-    font-size: 15px;
+    font-size: 13px;
   }
 
   .speaker-info {
-    font-size: 15px;
+    font-size: 12px;
   }
 
   .h-r3 {
