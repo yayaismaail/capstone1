@@ -92,7 +92,7 @@ To run tests and check for errors:
 
 You can deploy this project using:
 
--[Deployment Link](coming soon)
+-[Deployment Link](https://yayaismaail.github.io/capstone1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
