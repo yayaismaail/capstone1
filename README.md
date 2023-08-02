@@ -5,26 +5,35 @@
   <img src="images/logo.jpg" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Yaya Ismail Fashion Design</b></h3>
+  <h3><b>Yaya Ismail Fashion Designs</b></h3>
 
 </div>
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
 
 # 📖 [yayaismail creative designs] <a name="about-project"></a>
 
@@ -35,15 +44,25 @@
 -CSS
 -JavaScript
 
-## 💻 Project Presentation <a name="live-demo"></a>
+<!-- Features -->
 
-- [Presentation Link](coming soon)
+### Key Features <a name="key-features"></a>
+
+- **[User Experience]**
+- **[User Friendly]**
+- **[Able to fit small and large screen size]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](coming soon)
+- [Live Demo Link](https://yayaismaail.github.io/capstone1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -106,8 +125,17 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🔭 Future Feature
-More elements, styling and UX aspects will be added to the work
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Add more contents]**
+- [ ] **[Enhance background]**
+- [ ] **[Add forms]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -121,20 +149,20 @@ Feel free to check the [issues page](https://github.com/yayaismaail/capstone1/is
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a like if you like this project and kindly follow me using my social media handles
+Give a like if you like this project and kindly follow me using my social media handles.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank my learning partners, morning and standup team members, mentors and other friends who helped throughout the project
-
-I would like to also give credit to Cindy Shin in Behance
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+I would like to thank my learning partners, morning and standup team members, mentors and other friends who helped throughout the project.
+I would like to also give credit to entire Microverse Family as well as Cindy Shin in Behance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
