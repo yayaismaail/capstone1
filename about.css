@@ -372,6 +372,12 @@ body {
 
   .login {
     margin-right: 12%;
+    list-style-type: none;
+    padding: 0;
+  }
+
+  .login-link {
+    display: inline-block;
   }
 
   .login-details a {
