@@ -2,15 +2,17 @@ const speakersArr = [
   {
     id: 0,
     img: 'images/my-picture.jpg',
+    alt: 'yayaismail',
     speakerName: 'yayaismail',
     speakerStatus: 'Agronomist, Breeder, Designer and Software Developer',
     speakerInfo: 'Lorem ipsum dolor sit amet.',
   },
   {
     id: 1,
-    img: 'images/my-picture.jpg',
-    speakerName: 'yayaismail',
-    speakerStatus: 'Agronomist, Breeder and Software Developer',
+    img: 'images/sis juwairiyya.jpg',
+    alt: 'Juwairiyya',
+    speakerName: 'Mrs. Juwairiyya',
+    speakerStatus: 'Seamstress and Designer',
     speakerInfo: 'Lorem ipsum dolor sit amet.',
   },
 ];
@@ -20,7 +22,7 @@ let speakers1 = '';
 speakersArr.forEach((speaker) => {
   speakers1 += `<li class="speakers">
   <div class="img-card">
-      <img src="${speaker.img}" alt="">
+      <img src="${speaker.img}" alt="${speaker.alt}">
   </div>
   <div class="img-desc">
       <h3 class="speaker-name">${speaker.speakerName}</h3>
@@ -37,16 +39,18 @@ speakers.innerHTML = speakers1;
 const speakersArr2 = [
   {
     id: 0,
-    img: 'images/my-picture.jpg',
-    speakerName: 'yayaismail',
-    speakerStatus: 'Agronomist, Breeder and Software Developer',
+    img: 'images/A M Yahaya.jpg',
+    alt: 'Prof. Yahaya',
+    speakerName: 'Prof. A.M Yahaya',
+    speakerStatus: 'Field Agronomist, Seamster and Designer',
     speakerInfo: 'Lorem ipsum dolor sit amet.',
   },
   {
     id: 1,
-    img: 'images/my-picture.jpg',
-    speakerName: 'yayaismail',
-    speakerStatus: 'Agronomist, Breeder and Software Developer',
+    img: 'images/Engr. Lere.jpg',
+    alt: 'Lere',
+    speakerName: 'Engr. Lere',
+    speakerStatus: 'Electrical Engineer, Seamster and Designer',
     speakerInfo: 'Lorem ipsum dolor sit amet.',
   },
 ];
@@ -56,7 +60,7 @@ let speakers12 = '';
 speakersArr2.forEach((speaker2) => {
   speakers12 += `<li class="speakers">
   <div class="img-card">
-      <img src="${speaker2.img}" alt="">
+      <img src="${speaker2.img}" alt="${speaker2.alt}">
   </div>
   <div class="img-desc">
       <h3 class="speaker-name">${speaker2.speakerName}</h3>
@@ -73,16 +77,18 @@ speakers2.innerHTML = speakers12;
 const speakersArr3 = [
   {
     id: 0,
-    img: 'images/my-picture.jpg',
-    speakerName: 'yayaismail',
-    speakerStatus: 'Agronomist, Breeder and Software Developer',
+    img: 'images/sis maimoonah.jpg',
+    alt: 'Hassana',
+    speakerName: 'Mrs. Maimuonah',
+    speakerStatus: 'Seamstress and Designer',
     speakerInfo: 'Lorem ipsum dolor sit amet.',
   },
   {
     id: 1,
-    img: 'images/my-picture.jpg',
-    speakerName: 'yayaismail',
-    speakerStatus: 'Agronomist, Breeder and Software Developer',
+    img: 'images/my-niece.jpg',
+    alt: 'Haajar',
+    speakerName: 'Mrs. Sameer',
+    speakerStatus: 'Seamstress and Designer',
     speakerInfo: 'Lorem ipsum dolor sit amet.',
   },
 ];
@@ -92,7 +98,7 @@ let speakers13 = '';
 speakersArr3.forEach((speaker3) => {
   speakers13 += `<li class="speakers">
   <div class="img-card">
-      <img src="${speaker3.img}" alt="">
+      <img src="${speaker3.img}" alt="${speaker3.alt}">
   </div>
   <div class="img-desc">
       <h3 class="speaker-name">${speaker3.speakerName}</h3>
