@@ -3,13 +3,13 @@ const speakersArr = [
     id: 0,
     img: 'images/my-picture.jpg',
     alt: 'yayaismail',
-    speakerName: 'yayaismail',
+    speakerName: 'yaya ismail',
     speakerStatus: 'Agronomist, Breeder, Designer and Software Developer',
     speakerInfo: 'Lorem ipsum dolor sit amet.',
   },
   {
     id: 1,
-    img: 'images/sis juwairiyya.jpg',
+    img: 'images/sis. J.png',
     alt: 'Juwairiyya',
     speakerName: 'Mrs. Juwairiyya',
     speakerStatus: 'Seamstress and Designer',
@@ -39,7 +39,7 @@ speakers.innerHTML = speakers1;
 const speakersArr2 = [
   {
     id: 0,
-    img: 'images/A M Yahaya.jpg',
+    img: 'images/Prof..png',
     alt: 'Prof. Yahaya',
     speakerName: 'Prof. A.M Yahaya',
     speakerStatus: 'Field Agronomist, Seamster and Designer',
@@ -47,7 +47,7 @@ const speakersArr2 = [
   },
   {
     id: 1,
-    img: 'images/Engr. Lere.jpg',
+    img: 'images/Engr. L.png',
     alt: 'Lere',
     speakerName: 'Engr. Lere',
     speakerStatus: 'Electrical Engineer, Seamster and Designer',
@@ -77,7 +77,7 @@ speakers2.innerHTML = speakers12;
 const speakersArr3 = [
   {
     id: 0,
-    img: 'images/sis maimoonah.jpg',
+    img: 'images/Sis. M.png',
     alt: 'Hassana',
     speakerName: 'Mrs. Maimuonah',
     speakerStatus: 'Seamstress and Designer',
@@ -85,7 +85,7 @@ const speakersArr3 = [
   },
   {
     id: 1,
-    img: 'images/my-niece.jpg',
+    img: 'images/Niece.png',
     alt: 'Haajar',
     speakerName: 'Mrs. Sameer',
     speakerStatus: 'Seamstress and Designer',
